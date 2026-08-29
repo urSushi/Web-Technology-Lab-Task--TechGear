@@ -8,6 +8,7 @@ The website provides a clean and user-friendly interface where users can browse 
 
 The project consists of multiple interconnected web pages with a consistent navigation bar and design throughout the website.
 
+
 **Features**
 
 🏠 Home Page - Introduces the TechGear store and highlights popular products.
@@ -46,6 +47,8 @@ JavaScript - Used to add basic interactivity.
 
 Bootstrap 5.3.3 - Used for responsive design and UI components.
 
+
+
 **📁 Project Structure**
 
 TechGear/
@@ -70,6 +73,8 @@ Use the navigation menu to explore the different pages.
 
 No server or database is required to run this project.
 
+
+
 **Academic Purpose**
 
 This project was created for a Web Technology Lab to demonstrate fundamental concepts of front-end web development, including:
@@ -85,6 +90,9 @@ Linking multiple web pages together
 Adding basic JavaScript functionality
 
 Creating a consistent and user-friendly website interface
+
+
+
 
 **Pages Included**
 
@@ -112,10 +120,14 @@ about.html
 
 Provides information about TechGear
 
+
+
 **Project Status**
 
 Status: Completed
 Project Type: Web Technology Lab Project
 Website Type: Computer Accessories E-commerce Website
+
+
 
 **TechGear — A simple demonstration of front-end web development using HTML, CSS, JavaScript, and Bootstrap.**
