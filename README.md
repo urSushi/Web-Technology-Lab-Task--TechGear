@@ -8,13 +8,13 @@ The website provides a clean and user-friendly interface where users can browse 
 
 The project consists of multiple interconnected web pages with a consistent navigation bar and design throughout the website.
 
- Features
+**Features**
 
-Home Page - Introduces the TechGear store and highlights popular products.
+🏠 Home Page - Introduces the TechGear store and highlights popular products.
 
-Products Page - Displays available computer accessories with descriptions and prices.
+🛍️ Products Page - Displays available computer accessories with descriptions and prices.
 
-Categories Page - Organizes products into categories such as:
+📂 Categories Page - Organizes products into categories such as:
 
 Keyboards
 
@@ -24,7 +24,7 @@ Audio
 
 Camera
 
-Offers Page - Displays special discounts and promotional offers.
+**Offers Page - Displays special discounts and promotional offers.
 
 About Page - Provides information about TechGear and its services.
 
@@ -32,9 +32,11 @@ JavaScript Interaction - Includes a welcome message triggered from the home page
 
 Responsive Layout - Uses Bootstrap's grid system to create a responsive structure.
 
-Custom Styling - Uses a separate CSS file for the website's appearance and layout.
+Custom Styling - Uses a separate CSS file for the website's appearance and layout.**
 
-Technologies Used
+
+
+**Technologies Used**
 
 HTML5 - Used to structure the web pages.
 
@@ -44,7 +46,7 @@ JavaScript - Used to add basic interactivity.
 
 Bootstrap 5.3.3 - Used for responsive design and UI components.
 
-Project Structure
+**📁 Project Structure**
 
 TechGear/
 │
@@ -56,7 +58,7 @@ TechGear/
 ├── style.css           # Custom CSS styles
 └── script.js           # JavaScript functionality
 
-How to Run the Project
+**How to Run the Project**
 
 Download or clone this repository.
 
@@ -68,7 +70,7 @@ Use the navigation menu to explore the different pages.
 
 No server or database is required to run this project.
 
-Academic Purpose
+**Academic Purpose**
 
 This project was created for a Web Technology Lab to demonstrate fundamental concepts of front-end web development, including:
 
@@ -84,7 +86,7 @@ Adding basic JavaScript functionality
 
 Creating a consistent and user-friendly website interface
 
-Pages Included
+**Pages Included**
 
 Page
 
@@ -110,10 +112,10 @@ about.html
 
 Provides information about TechGear
 
-Project Status
+**Project Status**
 
 Status: Completed
 Project Type: Web Technology Lab Project
 Website Type: Computer Accessories E-commerce Website
 
-TechGear — A simple demonstration of front-end web development using HTML, CSS, JavaScript, and Bootstrap.
+**TechGear — A simple demonstration of front-end web development using HTML, CSS, JavaScript, and Bootstrap.**
